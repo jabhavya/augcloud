@@ -2,7 +2,3 @@ Big data analytics
 Data Science
 machine learning
 Artificial Intelligence
-Deep Learning
-
-Data Visualization
-
